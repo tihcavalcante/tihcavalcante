@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @tihcavalcante
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihcavalcante&show_icons=true&theme=darcula)](https://github.com/tihcavalcante/github-readme-stats)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tihcavalcante&layout=donut)](https://github.com/tihcavalcante/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=tihcavalcante&show_icons=true&theme=darcula"><img height=200 align="center" src="https://github.com/tihcavalcante/github-readme-stats"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tihcavalcante&layout=compact"/>
+</a>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
