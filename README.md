@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tihcavalcante
-<a href="https://github-readme-stats.vercel.app/api?username=tihcavalcante&show_icons=true&theme=darcula"><img height=200 align="center" src="https://github.com/tihcavalcante/github-readme-stats"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tihcavalcante&layout=compact"/>
+<a href="https://github-readme-stats.vercel.app/api?username=tihcavalcante&show_icons=true&theme=darcula">
+  <img height=200 align="center" src="https://github.com/tihcavalcante/github-readme-stats" />
 </a>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
