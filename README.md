@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @tihcavalcante
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihcavalcante&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## 👋 Hi, I’m @tihcavalcante
+<div>
+  <a href="https://github.com/tihcavalcante/tihcavalcante">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tihcavalcante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=python,html,css&theme=dark"/>
+</div>
+
 
 # Tiago Cavalcante
 
