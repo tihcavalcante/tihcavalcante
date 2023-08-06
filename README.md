@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tihcavalcante
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihcavalcante)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tihcavalcante&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
